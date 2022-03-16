@@ -26,6 +26,10 @@ body {
         padding-top: 15px;
         padding-bottom: 15px;
     }
+    header .intro-text {
+        padding-top: 140px;
+        padding-bottom: 200px;
+    }
 }
 
 /*
@@ -53,7 +57,7 @@ footer .col-md-4:last-child {
 
 .intro-text-wrapper {
     padding: 20px;
-    width: 50%; 
+    width: 75%; 
     margin: 0 auto; 
     background-color: rgba(0, 0, 0, 0.4);
 }
